@@ -1,0 +1,36 @@
+.con {
+  /* background box: */
+  /* Frame 5 */
+
+  position: relative;
+  width: 305px;
+  height: 361px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo {
+  width: 200px;
+  height: 60px;
+  margin-top: 20px;
+}
+.text-1 {
+  text-align: left;
+  font-weight: bold;
+  font-size: larger;
+}
+.mar-left {
+  margin-left: 40px;
+}
+
+.mar-top {
+  margin-top: 30px;
+}
+
+.but-mar-left {
+  margin-left: 50px;
+}
+
+.but-mar-top {
+  margin-top: 40px;
+}
